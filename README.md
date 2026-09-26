@@ -7,8 +7,8 @@ Welcome to my GitHub profile! 🚀
 
 I am a **Final-Year Computer Science Engineering student** passionate about
 **Cloud Computing, DevOps, Backend Development, and Software Engineering**.
-I enjoy building automated, scalable, and reliable applications while
-continuously improving my problem-solving skills.
+My expertise spans architecting robust CI/CD pipelines, provisioning Infrastructure as Code (IaC), 
+managing containerized environments, and building data-intensive engineering pipelines.
 
 - 🏗️ **Infrastructure as Code:** Advanced automation using **Terraform**
   to provision secure and modular environments such as **VPCs, IAM, and VMs**.
