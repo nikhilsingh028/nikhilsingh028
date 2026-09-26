@@ -41,7 +41,7 @@ managing containerized environments, and building data-intensive engineering pip
 | **Operating Systems** | Linux, Shell Scripting |
 | **Core CS** | Data Structures & Algorithms, DBMS, OS, Computer Networks |
 
--
+---
 ## 📁 Featured Projects
 
 ### ☸️ Two-Tier Scalable App Deployment on Kubernetes & AWS EKS
@@ -58,7 +58,7 @@ managing containerized environments, and building data-intensive engineering pip
 
 - **Tech Stack:** AWS ECS, Fargate, ECR, Docker, CloudWatch, IAM
 - **Overview:** Containerized and deployed a Node.js Todo application on AWS ECS Fargate using ECR, IAM, VPC networking, Security Groups, and CloudWatch for centralized logging.
-- 
+---
 ## 📫 Connect with Me
 
 Feel free to reach out — I’m always open to collaborating on
