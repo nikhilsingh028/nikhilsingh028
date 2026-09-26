@@ -47,7 +47,7 @@ managing containerized environments, and building data-intensive engineering pip
 Feel free to reach out — I’m always open to collaborating on
 interesting projects and learning opportunities!
 
-- 🐙 GitHub: [GitHub Profile](https://github.com/YOUR_USERNAME)
+- 🐙 GitHub: [https://github.com/nikhilsingh028)
 - 💼 LinkedIn: [www.linkedin.com/in/nikhil-singh-baghel-a0a208292)
 - 📧 Email: (nikhilsingh00028@gmail.com)
 
