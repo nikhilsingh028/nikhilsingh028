@@ -8,13 +8,6 @@ Welcome to my GitHub profile! 🚀
 I am a **Final-Year Computer Science Engineering student** passionate about
 **Cloud Computing, DevOps, Backend Development, and Software Engineering**.
 I enjoy building automated, scalable, and reliable applications while
-continuously improving my problem-solving  skills..
-
-## 🚀 About Me
-
-I am a **Final-Year Computer Science Engineering student** passionate about
-**Cloud Computing, DevOps, Backend Development, and Software Engineering**.
-I enjoy building automated, scalable, and reliable applications while
 continuously improving my problem-solving skills.
 
 - 🏗️ **Infrastructure as Code:** Advanced automation using **Terraform**
