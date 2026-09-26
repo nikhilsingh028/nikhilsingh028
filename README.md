@@ -10,8 +10,6 @@ I am a **Final-Year Computer Science Engineering student** passionate about
 I enjoy building automated, scalable, and reliable applications while
 continuously improving my problem-solving  skills..
 
----
-
 🏗️ Infrastructure as Code: Advanced automation using Terraform to provision secure, modular multi-tier environments (VPCs, IAM, VMs).
 ☸️ Containerization & Orchestration: Deploying and scaling production-grade microservices on Kubernetes and Docker.
 📊 Observability & SRE: Instrumenting comprehensive metrics pipeline frameworks (Prometheus, Grafana) with custom alerting and Linux cgroups resource isolation.
